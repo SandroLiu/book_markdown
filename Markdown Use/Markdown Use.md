@@ -90,7 +90,7 @@
 ```
 
 ![Markdown图片语法](../images/Snip20200601_1.png '图片标题')
-![](/images/Snip20200601_1.png)
+
 ## 链接
 
 语法：
